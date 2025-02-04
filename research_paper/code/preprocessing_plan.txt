@@ -1,1 +1,10 @@
+# Preprocessing Plan for Mental Health Tweets Dataset
+
+1. **Convert text to lowercase** - Ensures uniformity in text data.  
+2. **Remove special characters and punctuation** - Cleans unnecessary symbols.  
+3. **Tokenization** - Splits sentences into words.  
+4. **Remove stopwords** - Eliminates common words like "the", "is", "and" to focus on meaningful terms.  
+5. **Lemmatization** - Converts words to their root form (e.g., "running" → "run").  
+6. **Handle missing values** - Remove tweets with missing or empty text.  
+7. **Handle imbalanced data** - Apply techniques like oversampling if necessary.  
 
