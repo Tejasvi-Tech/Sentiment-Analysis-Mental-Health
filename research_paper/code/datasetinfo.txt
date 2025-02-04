@@ -1,1 +1,11 @@
 
+Dataset Name: Mental Health Social Media Dataset  
+Source: Kaggle (https://www.kaggle.com/datasets/infamouscoder/mental-health-social-media)  
+Description:  
+- Contains 20,000 labeled English tweets.  
+- Labels: Depressed (1) and Non-Depressed (0).  
+- Can be used for sentiment analysis and mental health monitoring.  
+
+Notes:  
+- Preprocessing required (text cleaning, stopword removal, lemmatization).  
+- Data may contain noise due to informal language in tweets.  
