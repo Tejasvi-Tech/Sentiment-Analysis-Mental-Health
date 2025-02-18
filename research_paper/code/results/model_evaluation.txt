@@ -1,0 +1,17 @@
+Model: Logistic Regression  
+Accuracy: 85%  
+Precision:  
+   - Class 0: 85%  
+   - Class 1: 84%  
+Recall:  
+   - Class 0: 84%  
+   - Class 1: 86%  
+F1-Score:  
+   - Class 0: 84%  
+   - Class 1: 85%  
+Support: 4000 samples  
+
+Observations:  
+- The model performs well on both classes.  
+- It slightly favors detecting depressed users (higher recall for Class 1).  
+- Next step: Test a more advanced model (BERT).  
