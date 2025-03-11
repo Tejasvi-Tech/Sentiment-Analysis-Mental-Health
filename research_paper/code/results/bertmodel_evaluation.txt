@@ -1,0 +1,8 @@
+Model: BERT (Fine-Tuned)
+Accuracy: 92%
+Previous Model: Logistic Regression (85%)
+Improvement: +7%
+
+Observations:
+- BERT performed significantly better in understanding context.
+
